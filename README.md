@@ -23,3 +23,10 @@
   <br>
 </div>
 
+![PDF Preview](assets/gr_prev.png)
+![PDF Preview](assets/gr_prev0.png)
+![PDF Preview](assets/gr_prev1.png)
+
+[Download the full PDF](assets/Quantum_correlations_and_gravitation.pdf)
+
+
