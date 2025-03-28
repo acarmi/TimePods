@@ -4,7 +4,7 @@
 </p>
 
 
-> "... If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present."
+> "...  If by eternity is understood not endless temporal duration but timelessness, then he lives eternally who lives in the present."
 > 
 > — L. Wittgenstein, Tractatus 6.4311
 
