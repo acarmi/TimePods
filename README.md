@@ -4,6 +4,11 @@
 </p>
 
 
+> "... If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present."
+> 
+> — L. Wittgenstein, Tractatus 6.4311
+
+
 ![PDF Preview](assets/prev1.png)
 
 <div align="center">
