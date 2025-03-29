@@ -6,7 +6,7 @@ url: https://acarmi.github.io/TimePods
 # Theme settings
 #theme: jekyll-theme-midnight  # This is a dark theme to start with
 # Or use remote theme for more options:
-remote_theme: pages-themes/hacker
+remote_theme: pages-themes/slate
 
 # Custom variables for dark theme
 github:
