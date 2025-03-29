@@ -1,0 +1,17 @@
+# Site settings
+title: Your Site Title
+description: Your site description
+url: https://acarmi.github.io/TimePods
+
+# Theme settings
+theme: jekyll-theme-midnight  # This is a dark theme to start with
+# Or use remote theme for more options:
+# remote_theme: pages-themes/hacker
+
+# Custom variables for dark theme
+github:
+  is_project_page: true
+  repository_url: https://github.com/acarmi/TimePods
+
+# Build settings
+markdown: kramdown
