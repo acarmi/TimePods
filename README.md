@@ -25,7 +25,7 @@
 > — Liber Primus, Cicada 3301
 
 <div align="center">
-  ![PDF Preview](assets/prev1.png)
+  <img src="assets/prev1.png" alt="PDF preview" width='800'>
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  ![PDF Preview](assets/prev2.png)
+  <img src="assets/prev2.png" alt="PDF preview" width='800'>
 </div>
 
 [Download the full PDF](assets/Time_machines.pdf)
@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  ![PDF Preview](assets/gr_prev.png)
+  <img src="assets/gr_prev.png" alt="PDF preview" width='800'>
 </div>
 
 [Download the full PDF](assets/Quantum_correlations_and_gravitation.pdf)
